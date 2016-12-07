@@ -1,7 +1,7 @@
 
 #Python does not have the concept of static like java or c++ , hence
 #the singleton class makes sure that all the object are in the same
-#state. So no matter how many objects you make thet have the same
+#state. So no matter how many objects you make they have the same
 #configurations.
 
 class singleton(object):
